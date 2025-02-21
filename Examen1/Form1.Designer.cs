@@ -112,7 +112,7 @@
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
             Name = "Form1";
-            Text = "Form1";
+            Text = "EXAMEN 1";
             ((System.ComponentModel.ISupportInitialize)dataGridViewDatos).EndInit();
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
